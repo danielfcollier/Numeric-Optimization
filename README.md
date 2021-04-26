@@ -1,4 +1,4 @@
-# Implematation of Numeric Optimization Algorithms
+# Implementation of Numeric Optimization Algorithms
 
 Project developed in the post-grad course discipline "Numeric Optimization" at Federal University of Santa Catarina.
 
